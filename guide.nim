@@ -157,7 +157,7 @@
         |     species: string
         |     age    : int
         |
-        | proc info(this.Animal) =
+        | proc info(this:Animal) =
         |   echo "Name: ", this.name, "\nSpecies: ", this.species, "\nAge: ", this.age
         |
         | dog = Animal(name:"Bob",species:"pug",age:999999)
@@ -180,7 +180,7 @@
               |     species*: string
               |     age*    : int
               |
-              | proc info*(this.Animal) =
+              | proc info*(this:Animal) =
               |   echo "Name: ", this.name, "\nSpecies: ", this.species, "\nAge: ", this.age
 
 ]#
