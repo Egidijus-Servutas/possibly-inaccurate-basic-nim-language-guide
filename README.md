@@ -1,0 +1,1 @@
+I won't be continuing to use nim, I originally wanted to use it to replace c when I was moving away from python but some how c is a lot easier than nim. I hear complaints about c all the time but c seems to be like python for me, very simpple and I can do whatever I want, which is what I want when I'm writing code.
